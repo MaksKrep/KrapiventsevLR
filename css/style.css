@@ -67,7 +67,7 @@ h1 {
 }
 .list dt {
     font-size: 16px;
-    color: #372d2b;
+    color: #bacbdc;
     font-weight: 700;
 }
 .page-stat h2 span {
@@ -127,4 +127,117 @@ h1 {
     font-size: 40px;
     color: #192b59;
     font-weight: 600;
+}
+.page-clients h2 span {
+    font-size: 18px;
+    color: #6eb8f8;
+    font-weight: 800;
+}
+.page-clients h2 {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 600;
+}
+.name {
+    font-size: 22px;
+    color: #000958;
+    font-weight: 600;
+}
+.position {
+    font-size: 14px;
+    color: #1085e4;
+    font-weight: 700;
+}
+.page-plan h2 span {
+    font-size: 18px;
+    color: #6eb8f8;
+    font-weight: 800;
+}
+.page-plan h2 {
+    font-size: 40px;
+    color: #192b59;
+    font-weight: 600;
+}
+.box-price-item h3 {
+    font-size: 70px;
+    color: #000958;
+    font-weight: 700;
+}
+.box-price-item p strong {
+    font-size: 14px;
+    color: #0084ff;
+    font-weight: 700;
+}
+.box-price-item a {
+    font-size: 12px;
+    color: #9ca0c2;
+    font-weight: 700;
+    background-color: #ffffff;
+}
+.box-price-item-active h3 span  {
+    font-size: 70px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.box-price-item-active p strong {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.box-price-item-active a {
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 700;
+    background-color: #1085e4;
+}
+.box-price-item-active1 h3 span {
+    font-size: 70px;
+    color: #000958;
+    font-weight: 700;
+}
+.box-price-item-active1 p strong {
+    font-size: 14px;
+    color: #0084ff;
+    font-weight: 700;
+}
+.box-price-item-active1 a {
+    font-size: 12px;
+    color: #9ca0c2;
+    font-weight: 700;
+    background-color: #ffffff;
+}
+.page-team h2 span {
+    font-size: 18px;
+    color: #85c8ff;
+    font-weight: 800;
+}
+.page-team h2 {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.box-team p span {
+    font-size: 14px;
+    color: #0084ff;
+    font-weight: 800;
+}
+.box-team p {
+    font-size: 26px;
+    color: #000958;
+    font-weight: 600;
+}
+.page-form h2 {
+    font-size: 50;
+    color: #000958;
+    font-weight: 600;
+}
+.page-form button {
+    color: #fff; 
+    font-weight: 400;
+    background-color: #1085e4;
+}
+.footer p a {
+    font-size: 16px;
+    color: #155ca3;
+    font-weight: 400;
 }
